@@ -15,8 +15,7 @@ print reverse(arr,0)
 #         return 1
 #     else:
 #         result = number * factorial(number - 1)
-#         return result
-    
+#         return resul\\
 # print factorial(5)
 
 # def count_down(number):
