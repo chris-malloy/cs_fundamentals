@@ -106,13 +106,6 @@ class LinkedList:
             
             node_i_want_to_delete.delete()
 
-  
-
-
-            
-            
-        
-
 ll = LinkedList()
 ll.append(1)
 ll.append(2)
